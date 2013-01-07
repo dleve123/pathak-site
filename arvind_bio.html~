@@ -1,0 +1,217 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title> Pathak Lab </title>
+<link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+<script type="text/javascript" src="mootools.js"></script>
+<script type="text/javascript" src="imageMenu.js"></script>
+
+</head>
+
+<body class="home blog">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+							
+								<h1 id="site-title">
+					<center>
+						<a href="#" title="arvind" rel="home"><img src="images/title.jpg" alt="PATHAK Lab"/></a>
+					</center>
+				</h1>
+
+
+				<div id="imageMenu">
+		
+				<ul>
+			<li class="bk1"><a href="icMech.html" style="background: url('images/icm1.jpg') repeat scroll 0%;">Image Contrast Mechanisms</a></li>
+			<li class="bk2"><a href="multiScaleImg.html" style="background: url('images/rad3.jpg') repeat scroll 0%;">Multiscale Imaging</a></li>
+			<li class="bk3"><a href="dataVisualization.html" style="background: url('images/research3.jpg') repeat scroll 0%;">Data Visualization</a></li>
+			<li class="bk4"><a href="clinicalBiomarkers.html" style="background: url('images/bio2.jpg') repeat scroll 0%;">Clinical Biomarkers</a></li>
+			<li class="bk6"><a href="biophyModelling.html" style="background: url('images/biophy1.jpg') repeat scroll 0%;">Biophysical Modelling</a></li>
+				</ul>				
+			</div>
+				
+<script type="text/javascript">
+			
+			window.addEvent('domready', function(){
+				var myMenu = new ImageMenu($$('#imageMenu a'),{openWidth:310, border:2, onOpen:function(e,i){location=(e);}});
+			});
+		</script>	
+
+				
+			</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+<div class="menu">
+<ul>
+	<li class="wq"><a href="pathak.html" title="Home">Home</a></li>
+	<li class="ql"><a href="research.html">Research</a>
+		<ul class='cd'>
+			<li class="ab"><a href="research_imaging.html">Tumor Physiology</a></li>
+			<li class="ab"><a href="research_imaging.html">Image Contrast Mechanisms</a></li>
+			<li class="ab"><a href="research_imaging.html">Multiscale Imaging</a></li>
+			<li class="ab"><a href="research_imaging.html">Data Visualization</a></li>
+			<li class="ab"><a href="research_imaging.html">Clinical Biomarkers</a></li>
+			<li class="ab"><a href="research_imaging.html">Biophysical Modelling</a></li>
+		</ul>
+	</li>
+</ul>
+<ul>
+	<li><a href="members.html">Members</a>
+		<ul class='adf'>
+			<li class="ab"><a href="arvind_bio.html">Dr. Arvind P. Pathak</a></li>
+			<li class="ab"><a href="graduate.html">Graduate Students</a></li>
+			<li class="ab"><a href="ugraduate.html">UnderGraduate Students</a></li>
+			<li class="ab"><a href="tech.html">Staff</a></li>
+		</ul>
+	</li>
+</ul>
+<ul><li><a href="pubs.html">Publications</a></li></ul>
+<ul>	<li class="df"><a href="news.html">News</a></li> </ul>
+<ul><li><a href="links.html">Links</a></li></ul>
+<ul><li><a href="positions.html">Positions</a></li></ul>
+<ul><li><a href="contacts.html">Contacts</a></li></ul>
+<ul>
+	<li id="search" class="widget-container widget_search" align="right">
+		<form role="search" method="get" id="searchform" action="#" >
+			<input type="text" title="Search" value="Search" name="s" id="s" />
+		</form>	
+	</li>
+</ul>
+</div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+
+
+
+		<div id="sidebar1" class="widget-area" role="complementary" align="justify">
+			<ul class="xoxo">
+	
+
+			<li class="widget-container">
+				<h3 class="widget-title">Recent News</h3>
+	<li class="cat-item cat-item-5"><a href="news.html" title="news">Grad student Eugene Kim has been invited to give an oral presentation on imaging tumor hypoxia at the 20th Annual Meeting of the ISMRM in Melbourne, Australia.</a>
+<br>
+<br>
+	<li class="cat-item cat-item-5"><a href="pubs.html" title="news">Grad student Abhishek Rege's article on Laser Speckle Imaging of Wound Healing was featured on the cover of journal Angiogenesis</a>
+<br>
+<br>
+	<li class="cat-item cat-item-5"><a href="news.html" title="news">The Pathak Lab welcomes Meher Vijay, graduate student from the Dept. of Computer Science.</a>
+<br>
+<br>
+	<li class="cat-item cat-item-5"><a href="news.html" title="news">The Pathak Lab welcomes Charlesa Plummer as a research volunteer.</a>
+<br>
+<br>
+	<li class="cat-item cat-item-5"><a href="news.html" title="news">more news...</a>
+</li>
+</li>
+			</li>
+
+			
+				</ul>
+		</div><!-- #secondary .widget-area -->
+
+		<div id="sidebar2" class="widget-area" role="complementary" align="justify">
+			<ul class="xoxo" >
+
+	
+
+			<li id="pubs" class="widget-container">
+				<h3 class="widget-title">Recent Publications</h3>
+<br>
+				<h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22198198' >In vivo laser speckle imaging reveals microvascular remodeling and hemodynamic changes during wound healing angiogenesis.</a> Rege A, Thankor NV, Rhie K, <b>Pathak AP</b></h4>
+<br>
+				<h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22818357' >Three-dimensional imaging of the mouse neurovasculature with magnetic resonance microscopy.</a> <b>Pathak AP</b>, Kim E, Zhang J, Jones MV</h4>
+<br>
+<h4><a href="http://www.ncbi.nlm.nih.gov/pubmed/21639574"> Multiexposure laser speckle
+contrast imaging of the angiogenic microenvironment. </a> Rege A, Murari K, Seifert A, <b>Pathak AP</b>, Thakor NV. </h4>
+<br>
+				<h4><a href='pubs.html' >more...</a> </h4>
+			</li>
+
+
+					</ul>
+		</div><!-- #primary .widget-area -->
+
+		<div id="container">
+			<div id="content" role="main">
+
+
+
+
+			<div id="post-19" class="post-19 post type-post status-publish format-standard hentry category-uncategorized tag-boat tag-lake">
+<br>
+			<div class="entry-meta">
+<h2 align="justify"> Assistant Professor of Radiology and Oncology.
+</h2>
+<img src="images/pic_arvind.jpg" align="left" height="200" width="180"/>
+<h3>
+<br> 
+Postdoctoral Fellow, Cancer Imaging, The Johns Hopkins University School of Medicine.
+<br> 
+PhD, Functional Imaging, Medical College of Wisconsin and Marquette University.
+<br> 
+BS, Electronics Engineering, University of Poona, India.
+<br> 
+Dr. Pathak’s ‘official’ Radiology page can be found here.
+<a href="http://www.hopkinsradiology.org/Radiology%20Faculty/Research%20Faculty%20Bios/Pathak">http://www.hopkinsradiology.org/Radiology Faculty/Research Faculty Bios/Pathak</a>
+<br> 
+<br>
+Research Statement
+<div align="justify">
+For years, researchers have focused on the role of the cancer cell in disease progression. However, the cancer cell's immediate environment, i.e. the surrounding normal cells and associated tissues also play an important role in tumor development. 
+The Pathak Lab characterizes the changes that occur in this ‘tumor microenvironment’ using novel biomedical imaging techniques. To advance our understanding of cancer, our research focuses on the following key areas: (i) contrast mechanisms; (ii) multiscale imaging; (iii) data visualization; (iv) clinical biomarkers and (v) biophysical modeling.
+
+</div>
+</h3>
+<h4>
+<div align="center">
+<br>
+My approach to mentoring and science is nicely captured by the following quotes:
+<br>
+<b><i>“When teaching, light a fire, don't fill a bucket.”</i></b> – Dan Snow
+<br>
+<b><i> “Discovery consists in seeing what everyone else has seen and thinking what no one else has thought.” </i></b>-  <abbr title="1937 Nobel Prize for Medicine">Albert Szent-Gyorgyi</abbr>
+<br>
+<b><i>“In the beginner's mind there are many possibilities. In the expert's mind there are few.” </i></b>-  Shunryu Suzuki
+</div>
+</h3>
+
+			</div><!-- .entry-meta -->
+
+	
+
+			</div><!-- #post-## -->
+
+		
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+			<div id="site-generator">
+			
+		<p>Created and maintained by <a href="http://cs.jhu.edu/~myeleti">Meher</a> </p>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+</body>
+</html>
