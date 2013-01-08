@@ -34,5 +34,6 @@
         <br>
       </div>
     </div><!-- #wrapper -->
+    <!--#include file="footer.html" -->
   </body>
 </html>
