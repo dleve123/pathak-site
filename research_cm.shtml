@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Pathak Lab </title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <div align="justify">
+          <h1>Contrast Mechanisms</h1>
+          <br>
+        <div align="center">
+          <a href="images/cm_r.jpg"><img src="images/cm_r.jpg"  height="500" width="750"/></a>
+        </div>
+        <font size="3" color="Grey">
+          If we develop a clear understanding of the relationship between the final biomedical image and the underlying pathophysiology, 
+          we can create new ways of imaging disease. Such developments can profoundly affect patient outcome and better inform disease management. 
+          Therefore, in the Pathak Lab, we are trying to undertsand the relationship between tumor biology and image contrast in Magnetic Resonance Imaging (MRI). 
+          Our goal is to develop clinical ‘readouts’ i.e. pictures of the tumor in which the colors/instensity or ‘contrast’ is a function of the underlying status of the tumor.
+        </font>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+    </div><!-- #wrapper -->
+  </body>
+</html>
