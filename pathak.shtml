@@ -1,97 +1,60 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
-<head>
-  <meta charset="UTF-8" />
-  <title> Pathak Lab </title>
-  <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
-  <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
-  <script type="text/javascript" src="mootools.js"></script>
-  <script type="text/javascript" src="imageMenu.js"></script>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pathak Lab</title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
 
-<body class="home blog">
-  <div id="wrapper" class="hfeed">
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
 
-    <!--#include file="header.html" -->
+      <!--#include file="header.html" -->
 
-    <div id="main">
-      <!--#include file="recent_news.html" -->
+      <div id="main">
 
-      <div id="sidebar2" class="widget-area" role="complementary" align="justify">
-        <ul class="xoxo" >
+        <!--#include file="recent_news.html" -->
+        <!--#include file="recent_pubs.html" -->
 
+        <div id="container">
+          <div id="content" role="main">
+            <div id="post-19" class="post-19 post type-post status-publish format-standard hentry category-uncategorized tag-boat tag-lake">
+            <br>
+              <div class="entry-meta">
+                <h2 align="justify">
+                  <font color="#FF0000">
+                    <i>"Make visible what, without you, might perhaps never have been seen"</i> -- Robert Bresson
+                  </font>
+                </h2>
+                <h3 align="justify">
+                  <font color="Grey" size="3">
+                    Our research employs biomedical imaging, computational models and visualization tools to answer critical questions in cancer biology. Specifically, we investigate the tumor microenvironment with the goal of developing clinical biomarkers and a deeper understanding of disease progression and metastasis.
+                    <br>
+                    <br>
+                    We are located in the Division of Cancer Imaging Research, Russell H. Morgan Department of Radiology and Radiological Science at the Johns Hopkins University School of Medicine. Feel free to browse our site and leave your comments. [<a href="contacts.py" style="color:#4682B4">Contact</a>].
+                    <br>
+                    <br>
+                    <a href="mailto:pathak@mri.jhu.edu" style="color:#4682b4">Dr. Arvind P. Pathak</a>
+                    <br>
+                    Assistant Professor
+                    <br>
+                    Depts. of Radiology and Oncology
+                    <br>
+                    The Johns Hopkins University School of Medicine.
+                    <br>
+                  </font>
+                </h3>
+              </div><!-- .entry-meta -->
+            </div><!-- #post-## -->
+          </div><!-- #content -->
+        </div><!-- #container -->
+      </div><!-- #main -->
 
+      <!--#include file="footer.html" -->
 
-        <li id="pubs" class="widget-container">
-          <h3 class="widget-title">Recent Publications</h3>
-  <br>
-          <h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22565817' >Multiscale Imaging and Computational Modeling of Blood Flow in the Tumor Vasculature.</a> Kim E et al, <i>Annals of Biomedical Engineering,</i> 2012.</h4>
-  <br>
-          <h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22198198' >In vivo laser speckle imaging reveals microvascular remodeling and hemodynamic changes during wound healing angiogenesis.</a> Rege A et al, <i>Angiogenesis,</i> 2011.</h4>
-  <br>
-          <h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22818357' >Three-dimensional imaging of the mouse neurovasculature with magnetic resonance microscopy.</a> Pathak AP et al, <i>PLoS One,</i> 2011.</h4>
-  <br>
-  <h4><a href="http://www.ncbi.nlm.nih.gov/pubmed/21639574"> Multiexposure laser speckle
-  contrast imaging of the angiogenic microenvironment. </a> Rege A et al, <i>Journal of Biomedical Optics,</i> 2011.</h4>
-  <br>
-  <h4><a href="http://www.ncbi.nlm.nih.gov/pubmed/21639574"> Vascular phenotyping of brain tumors using magnetic resonance microscopy (.MRI). </a>Kim E et al, <i>J Cerebral Blood Flow & Metabolism,</i> 2011.</h4>
-  <br>
-          <h4><a href='pubs.html' >more...</a> </h4>
-        </li>
-
-
-            </ul>
-      </div><!-- #primary .widget-area -->
-
-      <div id="container">
-        <div id="content" role="main">
-
-
-
-
-        <div id="post-19" class="post-19 post type-post status-publish format-standard hentry category-uncategorized tag-boat tag-lake">
-  <br>
-        <div class="entry-meta">
-  <h2 align="justify">
-  <font color="#FF0000">
-    <i>			"Make visible what, without you, might perhaps never have been seen"</i> -- Robert Bresson
-  </font>
-  </h2>
-  <h3 align="justify">
-  <font color="Grey" size="3">
-  Our research employs biomedical imaging, computational models and visualization tools to answer critical questions in cancer biology. Specifically, we investigate the tumor microenvironment with the goal of developing clinical biomarkers and a deeper understanding of disease progression and metastasis.
-  <br> 
-  <br>
-  We are located in the Division of Cancer Imaging Research, Russell H. Morgan Department of Radiology and Radiological Science at the Johns Hopkins University School of Medicine. Feel free to browse our site and leave your comments. [<a href="contacts.py" style="color:#4682B4">Contact</a>].
-  <br>
-  <br>
-  <a href="mailto:pathak@mri.jhu.edu" style="color:#4682b4">Dr. Arvind P. Pathak</a>
-  <br>
-  Assistant Professor
-  <br>
-  Depts. of Radiology and Oncology
-  <br>
-  The Johns Hopkins University School of Medicine.
-  <br>
-
-  </font>
-  </h3>
-        </div><!-- .entry-meta -->
-
-    
-
-        </div><!-- #post-## -->
-
-      
-
-        </div><!-- #content -->
-      </div><!-- #container -->
-
-    </div><!-- #main -->
-
-  <!--#include file="footer.html" -->
-
-  </div><!-- #wrapper -->
-
-</body>
+    </div><!-- #wrapper -->
+  </body>
 </html>
