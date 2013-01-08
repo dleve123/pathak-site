@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Pathak Lab </title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <div align="justify">
+        <h1>Data Visualization</h1>
+        <br>
+        <div align="center">
+          <a href="images/dv_r.jpg"><img src="images/dv_r.jpg" height="500" width="900"></a>
+        </div>
+        <font size="3" color="Grey">
+        They say a picture is worth a "1000 words". In the Pathak Lab we are trying to make a picture worth
+        100,000 words or more! To extract and communicate information from the rich, multidimensional biomedical images we acquire it is necessary to incorporate techniques 
+        ranging from information theory, computer graphics to statisitics and aesthetics. We collaborate with amazing colleagues from the 
+        departments of computer science, radiology and biomedical engineering to achieve this integration. Examples of scientific data 
+        visualization can be found in several of our <a href="pubs.html" color="FFFFFF">papers</a> from 2011. 
+        </font>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div><!-- #wrapper -->
+    <!--#include file="footer.html" -->
+  </body>
+</html>
