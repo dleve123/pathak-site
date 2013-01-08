@@ -1,133 +1,97 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
-<meta charset="UTF-8" />
-<title> Pathak Lab </title>
-<link rel="stylesheet" type="text/css" media="all" href="style2.css" />
-<link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
-<script type="text/javascript" src="mootools.js"></script>
-<script type="text/javascript" src="imageMenu.js"></script>
-
+  <meta charset="UTF-8" />
+  <title> Pathak Lab </title>
+  <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+  <script type="text/javascript" src="mootools.js"></script>
+  <script type="text/javascript" src="imageMenu.js"></script>
 </head>
 
 <body class="home blog">
-<div id="wrapper" class="hfeed">
-  <!--#include file="header.html" -->
-	<div id="main">
+  <div id="wrapper" class="hfeed">
+
+    <!--#include file="header.html" -->
+
+    <div id="main">
+      <!--#include file="recent_news.html" -->
+
+      <div id="sidebar2" class="widget-area" role="complementary" align="justify">
+        <ul class="xoxo" >
 
 
 
-		<div id="sidebar1" class="widget-area" role="complementary" align="justify">
-			<ul class="xoxo">
-	
-
-			<li class="widget-container">
-				<h3 class="widget-title">Recent News</h3>
-<li class="cat-item cat-item-5"><a href="http://www.ploscollections.org/NMT" title="news">Our lab's paper on mapping the mouse neurovasculature with MR microscopy has been selected by PLoS One for its NeuroMapping and Therapeutics Collection</a>
-<br>
-<br>
-<li class="cat-item cat-item-5"><a href="http://inbt.jhu.edu/blog/2012/06/20/in-vivo-visualization-of-angiogenesis-during-wound-healing-featured-on-journal-cover" title="news">Our lab's research on in vivo visualization of angiogenesis during wound healing is featured on the cover of the journal Angiogenesis.</a>
-<br>
-<br>
-<li class="cat-item cat-item-5"><a href="news.html" title="news">We welcome Leland Pung and Woo Taek Lim, junior Biomedical Engineering undergraduate students to the lab.</a>
-<br>
-<br>
-<li class="cat-item cat-item-5"><a href="news.html" title="news">Congratulations to Eugene Kim for successfully defending his thesis proposal!</a>
-<br>
-<br>
-	<li class="cat-item cat-item-5"><a href="http://rsna.org/NewsDetail.aspx?id=4960" title="news">Our lab's research on brain tumor imaging using MR Microscopy has been highlighted by the Radiological Society of North America (RSNA)</a>
-<br>
-<br>
-	<li class="cat-item cat-item-5"><a href="news.html" title="news">Grad student Eugene Kim is the recipient of the Summa Cum Laude Merit Award for the 20th Annual ISMRM meeting for his abstract entitled “Assessing Breast Cancer Angiogenesis In Vivo: Which MRI Biomarkers are Relevant?”.</a>
-<br>
-<br>
-	<li class="cat-item cat-item-5"><a href="news.html" title="news">Grad student Eugene Kim has been invited to give an oral presentation on imaging tumor hypoxia at the 20th Annual Meeting of the ISMRM in Melbourne, Australia.</a>
-<br>
-<br>
-	<li class="cat-item cat-item-5"><a href="news.html" title="news">more news...</a>
-</li>
-</li>
-			</li>
-
-			
-				</ul>
-		</div><!-- #secondary .widget-area -->
-
-		<div id="sidebar2" class="widget-area" role="complementary" align="justify">
-			<ul class="xoxo" >
-
-	
-
-			<li id="pubs" class="widget-container">
-				<h3 class="widget-title">Recent Publications</h3>
-<br>
-				<h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22565817' >Multiscale Imaging and Computational Modeling of Blood Flow in the Tumor Vasculature.</a> Kim E et al, <i>Annals of Biomedical Engineering,</i> 2012.</h4>
-<br>
-				<h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22198198' >In vivo laser speckle imaging reveals microvascular remodeling and hemodynamic changes during wound healing angiogenesis.</a> Rege A et al, <i>Angiogenesis,</i> 2011.</h4>
-<br>
-				<h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22818357' >Three-dimensional imaging of the mouse neurovasculature with magnetic resonance microscopy.</a> Pathak AP et al, <i>PLoS One,</i> 2011.</h4>
-<br>
-<h4><a href="http://www.ncbi.nlm.nih.gov/pubmed/21639574"> Multiexposure laser speckle
-contrast imaging of the angiogenic microenvironment. </a> Rege A et al, <i>Journal of Biomedical Optics,</i> 2011.</h4>
-<br>
-<h4><a href="http://www.ncbi.nlm.nih.gov/pubmed/21639574"> Vascular phenotyping of brain tumors using magnetic resonance microscopy (.MRI). </a>Kim E et al, <i>J Cerebral Blood Flow & Metabolism,</i> 2011.</h4>
-<br>
-				<h4><a href='pubs.html' >more...</a> </h4>
-			</li>
+        <li id="pubs" class="widget-container">
+          <h3 class="widget-title">Recent Publications</h3>
+  <br>
+          <h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22565817' >Multiscale Imaging and Computational Modeling of Blood Flow in the Tumor Vasculature.</a> Kim E et al, <i>Annals of Biomedical Engineering,</i> 2012.</h4>
+  <br>
+          <h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22198198' >In vivo laser speckle imaging reveals microvascular remodeling and hemodynamic changes during wound healing angiogenesis.</a> Rege A et al, <i>Angiogenesis,</i> 2011.</h4>
+  <br>
+          <h4><a href='http://www.ncbi.nlm.nih.gov/pubmed/22818357' >Three-dimensional imaging of the mouse neurovasculature with magnetic resonance microscopy.</a> Pathak AP et al, <i>PLoS One,</i> 2011.</h4>
+  <br>
+  <h4><a href="http://www.ncbi.nlm.nih.gov/pubmed/21639574"> Multiexposure laser speckle
+  contrast imaging of the angiogenic microenvironment. </a> Rege A et al, <i>Journal of Biomedical Optics,</i> 2011.</h4>
+  <br>
+  <h4><a href="http://www.ncbi.nlm.nih.gov/pubmed/21639574"> Vascular phenotyping of brain tumors using magnetic resonance microscopy (.MRI). </a>Kim E et al, <i>J Cerebral Blood Flow & Metabolism,</i> 2011.</h4>
+  <br>
+          <h4><a href='pubs.html' >more...</a> </h4>
+        </li>
 
 
-					</ul>
-		</div><!-- #primary .widget-area -->
+            </ul>
+      </div><!-- #primary .widget-area -->
 
-		<div id="container">
-			<div id="content" role="main">
+      <div id="container">
+        <div id="content" role="main">
 
 
 
 
-			<div id="post-19" class="post-19 post type-post status-publish format-standard hentry category-uncategorized tag-boat tag-lake">
-<br>
-			<div class="entry-meta">
-<h2 align="justify">
-<font color="#FF0000">
-	<i>			"Make visible what, without you, might perhaps never have been seen"</i> -- Robert Bresson
-</font>
-</h2>
-<h3 align="justify">
-<font color="Grey" size="3">
-Our research employs biomedical imaging, computational models and visualization tools to answer critical questions in cancer biology. Specifically, we investigate the tumor microenvironment with the goal of developing clinical biomarkers and a deeper understanding of disease progression and metastasis.
-<br> 
-<br>
-We are located in the Division of Cancer Imaging Research, Russell H. Morgan Department of Radiology and Radiological Science at the Johns Hopkins University School of Medicine. Feel free to browse our site and leave your comments. [<a href="contacts.py" style="color:#4682B4">Contact</a>].
-<br>
-<br>
-<a href="mailto:pathak@mri.jhu.edu" style="color:#4682b4">Dr. Arvind P. Pathak</a>
-<br>
-Assistant Professor
-<br>
-Depts. of Radiology and Oncology
-<br>
-The Johns Hopkins University School of Medicine.
-<br>
+        <div id="post-19" class="post-19 post type-post status-publish format-standard hentry category-uncategorized tag-boat tag-lake">
+  <br>
+        <div class="entry-meta">
+  <h2 align="justify">
+  <font color="#FF0000">
+    <i>			"Make visible what, without you, might perhaps never have been seen"</i> -- Robert Bresson
+  </font>
+  </h2>
+  <h3 align="justify">
+  <font color="Grey" size="3">
+  Our research employs biomedical imaging, computational models and visualization tools to answer critical questions in cancer biology. Specifically, we investigate the tumor microenvironment with the goal of developing clinical biomarkers and a deeper understanding of disease progression and metastasis.
+  <br> 
+  <br>
+  We are located in the Division of Cancer Imaging Research, Russell H. Morgan Department of Radiology and Radiological Science at the Johns Hopkins University School of Medicine. Feel free to browse our site and leave your comments. [<a href="contacts.py" style="color:#4682B4">Contact</a>].
+  <br>
+  <br>
+  <a href="mailto:pathak@mri.jhu.edu" style="color:#4682b4">Dr. Arvind P. Pathak</a>
+  <br>
+  Assistant Professor
+  <br>
+  Depts. of Radiology and Oncology
+  <br>
+  The Johns Hopkins University School of Medicine.
+  <br>
 
-</font>
-</h3>
-			</div><!-- .entry-meta -->
+  </font>
+  </h3>
+        </div><!-- .entry-meta -->
 
-	
+    
 
-			</div><!-- #post-## -->
+        </div><!-- #post-## -->
 
-		
+      
 
-			</div><!-- #content -->
-		</div><!-- #container -->
+        </div><!-- #content -->
+      </div><!-- #container -->
 
-	</div><!-- #main -->
+    </div><!-- #main -->
 
-<!--#include file="footer.shtml" -->
+  <!--#include file="footer.html" -->
 
-</div><!-- #wrapper -->
+  </div><!-- #wrapper -->
 
 </body>
 </html>
