@@ -1,0 +1,7 @@
+<div id="footer" role="contentinfo">
+  <div id="colophon">
+    <div id="site-generator">
+      <p>Created and maintained by <a href="http://cs.jhu.edu/~myeleti">Meher</a> </p>
+    </div><!-- #site-generator -->
+  </div><!-- #colophon -->
+</div><!-- #footer -->
