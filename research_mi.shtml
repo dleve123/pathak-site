@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Pathak Lab </title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <div align="justify">
+        <h1>Multiscale Imaging</h1>
+        <br>
+        <div align="center">
+          <a href="images/msi_r.jpg"><img src="images/msi_r.jpg" /></a>
+        </div>
+        <br>
+        <font size="3" color="Grey">
+        When you use Google Maps, you can zoom in from a bird's eye view of the world, all the way down to the street that you live on. 
+        You can determine which country abuts your's and after zooming you can tell which park is nearest to home. In other words, there 
+        is information at each spatial level. Similarly, in biomedical images, there is information at different spatial scales. 
+        In the Pathak Lab we are attempting to integrate information from different imaging methods and spatial scales to develop a 
+        'Google Map' of certain types of cancer. We believe this would give us a better understanding of cancer biology and help develop methods to combat it.
+        </font>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div><!-- #wrapper -->
+    <!--#include file="footer.html" -->
+  </body>
+</html>
