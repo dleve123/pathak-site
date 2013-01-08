@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Pathak Lab </title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <div align="justify">
+        <h1>Clinical Biomarkers</h1>
+        <br>
+        <div align="center">
+          <a href="images/cb_r.jpg"><img src="images/cb_r.jpg" height="450" width="900"/></a>
+        </div>
+        <font size="3" color="Grey" >
+        It is our hope that all the projects in the lab culminate in two major ways: the first, is a better understanding of brain and 
+        breast cancer, and the second is the development of imaging methods that facilitate a physician’s prognosis. Just as one undergoes 
+        a blood test to identify pathogens, undergoing ‘imaging tests’ can provide ‘biomarkers’ to inform the physician’s prognosis. 
+        To do this, one needs a detailed understanding of cancer and the engineering principles underlying image formation. In the Pathak 
+        Lab we employ biomedical engineering approaches to straddle these disciplines. We hope that addressing these issues will profoundly 
+        affect patient outcome and disease management.
+        </font>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+    </div><!-- #wrapper -->
+    <!--#include file="footer.html" -->
+  </body>
+</html>
