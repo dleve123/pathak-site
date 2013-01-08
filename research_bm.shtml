@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Pathak Lab </title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <div align="justify">
+        <h1>Biophysical Modeling</h1>
+        <br>
+        <br>
+        <div align="center">
+          <a href="images/bm_r.jpg"><img src="images/bm_r.jpg"  height="450" width="850"/></a>
+        </div>
+        <br>
+        <font size="3" color="Grey">
+        To develop imaging ‘biomarkers’ of cancer and relate the contrast mechanism to the underlying tumor microenvironment, we employ 
+        computational tools that allow us to simulate the MRI signal. These tools are at the interface of mathematics and biophysics and 
+        help us gain a better understanding of how various parameters such as magnetic field strength, contrast agent type and dose can affect 
+        the eventual MRI signal. These tools will help us identify the window within which the most ‘sensitive’ tumor biomarkers can be imaged.
+        </font>
+        <br>
+      </div>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div><!-- #wrapper -->
+    <!--#include file="footer.html" -->
+  </body>
+</html>
