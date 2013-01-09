@@ -13,10 +13,10 @@
     <div id="wrapper" class="hfeed">
 
       <!--#include file="header.html" -->
-      <h2 align="justify"> Biomedical Engineering PhD Student
+      <h2 align="justify"> Biomedical Engineering Undergraduate Student
       </h2>
       <br>
-      <img src="images/pic_eugene.jpg" align="left" height="160" width="213.4" style="padding:5px"/>
+      <img src="images/hopkins_logo.jpg" align="left" width="160" height="220.347" style="padding:5px"/>
       <font size="2" color="Grey">
       <br>
       Research Focus: Visualization and Segmentation
