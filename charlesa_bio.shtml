@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Pathak Lab </title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+      <h2 align="justify"> Research Intern
+      </h2>
+      <br>
+      <img src="images/pic_charlesa.jpg" align="left" height="150" width="161" style="padding:5px"/>
+      <font size="2" color="Grey">
+      <br>
+      Research Focus: Cancer Biology.
+      <br>
+      <br>
+      Undergraduate Institution: Morgan State University.
+      <br>
+      <br>
+      Undergraduate Major: Biology.
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    </div><!-- #wrapper -->
+    <!--#include file="footer.html" -->
+  </body>
+</html>
