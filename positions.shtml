@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pathak Lab</title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <div id="main">
+
+        <!--#include file="recent_news.html" -->
+        <!--#include file="recent_pubs.html" -->
+
+        <div id="container">
+          <div id="content" role="main">
+            <div id="post-19" class="post-19 post type-post status-publish format-standard hentry category-uncategorized tag-boat tag-lake">
+              <br>
+              <div class="entry-meta">
+                <h2 align="justify">Are you interested in joining our lab??</h2>
+                <h3 align="justify">
+                  <font color="Grey" size="3">
+                    We are always on the lookout for outstanding and motivated graduate and undergraduate students.
+                    <br>
+                    Please send the following to Dr. Arvind P. Pathak via <a href="mailto:pathak@mri.jhu.edu"><font color="#4682B4">email</font></a>:
+                    <br>
+                    <ul>
+                      <li> CV/Resume
+                        <ul>
+                          <li type=circle> please mention your academic major, relevant coursework, research experience, special skills.</li>
+                        </ul>
+                      </li>
+                      <li> Cover letter explaining: 
+                        <ol>
+                          <li>Your interest in our lab.</li>
+                          <li>Why you think you would be a good fit?</li>
+                        </ol>
+                      </li>
+                    </ul>
+                  </font>
+                </h3>
+              </div><!-- .entry-meta -->
+            </div><!-- #post-## -->
+          </div><!-- #content -->
+        </div><!-- #container -->
+      </div><!-- #main -->
+
+      <!--#include file="footer.html" -->
+
+    </div><!-- #wrapper -->
+  </body>
+</html>
