@@ -26,9 +26,15 @@
               <br>
               <div class="entry-meta">
                 <font size="3" color="Grey">
-                  Below are the publications listed by year.
+                  <div class="cover thumbnails">
+                     <a href="images/cac.jpg"><img src="images/cac.jpg" width="90" height="150"></a>
+                     <a href="images/abme_cover_2012_single_page.jpg"><img src="images/abme_cover_2012_single_page.jpg" width="90" height="150"></a>
+                     <a href="images/AngiogenesisCover.jpg"><img src="images/AngiogenesisCover.jpg" width="90" height="150"></a>
+                     <a href="images/JCBFMCover.jpg"><img src="images/JCBFMCover.jpg" width="90" height="150"></a>
+                     <a href="images/NeuroOncologyCover.jpg"><img src="images/NeuroOncologyCover.jpg" width="90" height="150"></a>
+
+                  </div>
                   <div class="pubs1" align="justify">
-                    <br>
                     <br>
                     <h2>
                           2012
@@ -38,11 +44,11 @@
                     <br>
                     <br>
 
-                    <a href='http://www.benthamdirect.org/pages/content.php?CAG/2012/00000001/00000003/0008CAG.SGM' >Optical Imaging of Microvascular Morphology and Perfusion.</a> Rege A, Thakor NV, Pathak AP. <i>Current Angiogenesis</i>, 2012.
+                    <a href='http://www.benthamdirect.org/pages/content.php?CAG/2012/00000001/00000003/0008CAG.SGM' >Optical Imaging of Microvascular Morphology and Perfusion.</a> Rege A, Thakor NV, Pathak AP. <i>Current Angiogenesis</i>, 2012. <a href="images/cac.jpg"><font color="FF0000">[Cover Page]</font></a>
                     <br>
                     <br>
 
-                    <a href='http://www.ncbi.nlm.nih.gov/pubmed/22565817' >Multiscale Imaging and Computational Modeling of Blood Flow in the Tumor Vasculature.</a> Kim E, Stamatelos S, Cebulla J, Bhujwalla ZM, Popel AS, Pathak AP. <i>Ann Biomed Eng</i>, 2012 May 8.
+                    <a href='http://www.ncbi.nlm.nih.gov/pubmed/22565817' >Multiscale Imaging and Computational Modeling of Blood Flow in the Tumor Vasculature.</a> Kim E, Stamatelos S, Cebulla J, Bhujwalla ZM, Popel AS, Pathak AP. <i>Ann Biomed Eng</i>, 2012 May 8. <a href="images/abme_cover_2012_single_page.jpg"><font color="FF0000">[Cover Page]</font></a>
                     <br>
                     <br>
                     <h2>
