@@ -26,7 +26,7 @@
               <br>
               <div class="entry-meta">
                 <font size="3" color="Grey">
-                  <div class="cover thumbnails">
+                  <div id="thumbnails">
                      <a href="images/cac.jpg"><img src="images/cac.jpg" width="90" height="150"></a>
                      <a href="images/abme_cover_2012_single_page.jpg"><img src="images/abme_cover_2012_single_page.jpg" width="90" height="150"></a>
                      <a href="images/AngiogenesisCover.jpg"><img src="images/AngiogenesisCover.jpg" width="90" height="150"></a>

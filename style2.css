@@ -1408,3 +1408,6 @@ code {
 	height: 30px;
 }
 
+#thumbnails a img {
+  padding: 0 4px;
+}
