@@ -41,7 +41,7 @@
                     <i>"Make visible what, without you, might perhaps never have been seen"</i> -- Robert Bresson
                   </font>
                 </h2>
-                <!--<img src="images/group_shot_slight_angle_resampled_jpg.jpg" title="lab group shot" alt="lab group shot in Mt. Vernon" width="508" height="381">-->
+
                 <div id="cover">
                   <script type="text/javascript">
                     document.write(getRandomCover());
