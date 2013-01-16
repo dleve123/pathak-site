@@ -1418,3 +1418,8 @@ code {
   margin-right: auto;
   padding: 10px
 }
+
+#picture-slider {
+  margin: auto;
+  margin-bottom: 20px;
+}

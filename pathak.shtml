@@ -5,8 +5,11 @@
     <title>Pathak Lab</title>
     <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
-    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="mootools-core-1.4.5-full-compat.js"></script>
+    <script type="text/javascript" src="mootools-more-1.4.0.1.js"></script>
     <script type="text/javascript" src="imageMenu.js"></script>
+    <script type="text/javascript" src="picture-slider/Source/picture-slider.js"></script>
+    <link rel="stylesheet" type="text/css" href="picture-slider/Source/picture-slider.css" />
 
     <script type="text/javascript">
       var coverImages = ["cac.jpg", "abme_cover_2012_single_page.jpg", "AngiogenesisCover.jpg", "JCBFMCover.jpg", "NeuroOncologyCover.jpg"];
@@ -42,11 +45,36 @@
                   </font>
                 </h2>
 
-                <div id="cover">
-                  <script type="text/javascript">
-                    document.write(getRandomCover());
+                <div id="picture-slider" style="width: 400px; height: 519px;"></div>
+                <script type="text/javascript">
+                  var ps = new PictureSlider($('picture-slider'), [
+                      {
+                        src: 'images/cac_400.jpg',
+                        link: 'http://www.benthamdirect.org/pages/content.php?CAG/2012/00000001/00000003/0008CAG.SGM',
+                        caption: '<strong>Current Angiogenesis:</strong> Optical Imaging of Microvascular Morphology and Perfusion'
+                      },
+                      {
+                        src: 'images/abme_cover_2012_single_page_400.jpg',
+                        link: 'http://www.ncbi.nlm.nih.gov/pubmed/22565817',
+                        caption: '<strong>Annals of Biomedical Engineering:</strong> Multiscale Imaging and Computational Modeling of Blood Flow in the Tumor Vasculature'
+                      },
+                      {
+                        src: 'images/AngiogenesisCover_400.jpg',
+                        link: 'http://www.ncbi.nlm.nih.gov/pubmed/22198198',
+                        caption: '<strong>Angiogenesis:</strong> In vivo laser speckle imaging reveals microvascular remodeling and hemodynamic changes during wound healing angiogenesis'
+                      },
+                      {
+                        src: 'images/JCBFMCover_400.jpg',
+                        link: 'http://www.ncbi.nlm.nih.gov/pubmed/21386855',
+                        caption: '<strong>Journal of Cerebral Blood Flow and Metabolism:</strong> Vascular phenotyping of brain tumors using magnetic resonance microscopy (&#956;MRI)'
+                      },
+                      {
+                        src: 'images/NeuroOncologyCover_400.jpg',
+                        link: 'http://www.ncbi.nlm.nih.gov/pubmed/14565159',
+                        caption: '<strong>Neuro-Oncology:</strong> Antiangiogenic effects of dexamethasone in 9L gliosarcoma assessed by MRI cerebral blood volume maps'
+                      }
+                  ]);
                   </script>
-                </div>
 
                 <h3 align="justify">
                   <font color="Grey" size="3">
