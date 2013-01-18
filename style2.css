@@ -352,11 +352,11 @@ textarea {
 	padding: 2px;
 }
 a:link {
-	color: #456482;
+	color: #4682b4;
 	text-decoration: none;
 }
 a:visited {
-	color: /*#BA55D3;*/#465c46;
+	color: #465c46;
 }
 a:active,
 a:hover {
@@ -748,7 +748,7 @@ body.page .edit-link {
 }
 .entry-meta a,
 .entry-utility a {
-	color: #888;
+	color: #4682b4;
 }
 .entry-meta a:hover,
 .entry-utility a:hover {
