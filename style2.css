@@ -1423,3 +1423,7 @@ code {
   margin: auto;
   margin-bottom: 20px;
 }
+
+a.cover {
+  color: #FF0000;
+}
