@@ -11,17 +11,6 @@
     <script type="text/javascript" src="picture-slider/Source/picture-slider.js"></script>
     <link rel="stylesheet" type="text/css" href="picture-slider/Source/picture-slider.css" />
 
-    <script type="text/javascript">
-      var coverImages = ["cac.jpg", "abme_cover_2012_single_page.jpg", "AngiogenesisCover.jpg", "JCBFMCover.jpg", "NeuroOncologyCover.jpg"];
-
-      function getRandomCover() {
-        var coverImage = '<img src=\"images/';
-        var randomIndex = Math.floor(Math.random() * coverImages.length);
-        coverImage += coverImages[randomIndex];
-        coverImage += '\" alt=\"Lab Cover\" width=\"300\" height=\"400\"/>';
-        return coverImage;
-      }
-    </script>
   </head>
 
   <body class="home blog">
