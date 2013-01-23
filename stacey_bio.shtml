@@ -16,7 +16,7 @@
       <h2 align="justify"> Biomedical Engineering Undergraduate Student
       </h2>
       <br>
-      <img src="images/stacey_pic.jpg" align="left" width="200" height="267" style="padding:5px"/>
+      <img class="member-pic" src="images/stacey_pic.jpg" align="left" width="200" height="267" />
       <font size="2" color="Grey">
         <br>
         Research Focus: Quantitative Microscopy

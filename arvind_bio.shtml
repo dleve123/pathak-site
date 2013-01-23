@@ -15,7 +15,7 @@
       <!--#include file="header.html" -->
       <h2 align="justify"> Assistant Professor of Radiology and Oncology.
       </h2>
-      <img src="images/pic_arvind.jpg" align="left" height="220" width="160"/>
+      <img class="member-pic" src="images/pic_arvind.jpg" align="left" height="220" width="160"/>
       <font size="2" color="Grey">
         <br>
         Postdoctoral Fellow, Cancer Imaging, The Johns Hopkins University School of Medicine.

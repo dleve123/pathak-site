@@ -16,7 +16,7 @@
       <h2 align="justify"> Biomedical Engineering PhD Student
       </h2>
       <br>
-      <img src="images/pic_eugene.jpg" align="left" height="160" width="213.4" style="padding:5px"/>
+      <img class="member-pic" src="images/pic_eugene.jpg" align="left" height="160" width="213.4" />
       <font size="2" color="Grey">
         <br>
         Research Focus: Developing Clinical Biomarkers of Angiogenesis.

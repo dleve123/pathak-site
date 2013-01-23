@@ -16,7 +16,7 @@
       <h2 align="justify"> Biomedical Engineering Undergraduate Student
       </h2>
       <br>
-      <img src="images/hopkins_logo.jpg" align="left" width="160" height="220.347" style="padding:5px"/>
+      <img class="member-pic" src="images/hopkins_logo.jpg" align="left" width="160" height="220.347" />
       <font size="2" color="Grey">
         <br>
         Research Focus: Image Processing

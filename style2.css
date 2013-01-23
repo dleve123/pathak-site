@@ -1427,3 +1427,7 @@ code {
 a.cover {
   color: #FF0000;
 }
+
+.member-pic {
+  padding: 5px;
+}
