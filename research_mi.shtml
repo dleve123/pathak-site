@@ -15,19 +15,15 @@
       <!--#include file="header.html" -->
 
       <div align="justify">
-        <h1>Multiscale Imaging</h1>
+        <h1>Imaging for Systems Biology</h1>
         <br>
         <div align="center">
-          <a href="images/msi_r.jpg"><img src="images/msi_r.jpg" /></a>
+          <a href="images/systems_bio_fig.jpg"><img src="images/systems_bio_fig.jpg"/></a>
         </div>
         <br>
         <font size="3" color="Grey">
-        When you use Google Maps, you can zoom in from a bird's eye view of the world, all the way down to the street that you live on. 
-        You can determine which country abuts your's and after zooming you can tell which park is nearest to home. In other words, there 
-        is information at each spatial level. Similarly, in biomedical images, there is information at different spatial scales. 
-        In the Pathak Lab we are attempting to integrate information from different imaging methods and spatial scales to develop a 
-        'Google Map' of certain types of cancer. We believe this would give us a better understanding of cancer biology and help develop methods to combat it.
-        </font>
+          <strong>“Multiscale” imaging of the angiogenic phenotype:</strong> (a) In vivo MRI of a 9L brain tumor bearing mouse brain at the ‘macroscopic’ scale (~150 µm resolution); 3-D ex vivo MR microscopy (µMRI) at two ‘mesoscopic’ scales (b) ~60 µm, and (c) ~30 µm in which the neurovasculature has been segmented into tumor vessels (gold) and cortical vessels (red). One can visualize the abnormal tumor vessel architecture and appreciate changes in vessel morphology at the tumor-host tissue interface (arrows). Imaging at the ‘microscopic’ scale: fluorescence microscopy images of (d) CD34 stained tumor vessels (10×), and (e) a lectin-labeled arteriole (40×). (f) Cartoon illustrating microarray analysis of the endothelium at the ‘molecular’ scale.
+      </font>
       </div>
       <br>
       <br>
