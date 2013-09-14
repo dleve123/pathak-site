@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pathak Lab</title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <div id="main">
+
+        <!--#include file="recent_news.html" -->
+        <!--#include file="recent_pubs.html" -->
+        <div id="container">
+          <div id="content" role="main">
+            <div id="post-19" class="post-19 post type-post status-publish format-standard hentry category-uncategorized tag-boat tag-lake">
+              <h2 class="entry-title">Collaborators</h2>
+              <div class="entry-meta" align="justify">
+                <font size="3" color="Grey">
+                  <ul>
+
+                    <br />
+                    <li>
+                    Dr. Aleksander S. Popel @ <a href='http://www.jhu.edu/apopel/'>Systems Biology Laboratory</a>
+                      <aside>(Johns Hopkins University)</aside>
+                    </li>
+
+                    <br />
+                    <li>
+                    Dr. Nitish Thakor @ <a href='http://web1.johnshopkins.edu/nthakor/'>Neuroengineering and Biomedical Instrumentation Laboratory</a>
+                      <aside>(Johns Hopkins University)</aside>
+                    </li>
+
+                    <br />
+                    <li>
+                    Dr. John Laterra @ <a href='http://www.kennedykrieger.org/patient-care/faculty-staff/john-j-laterra'>Neuro-Oncology Laboratory</a>
+                      <aside>(Kennedy Krieger Institute)</aside>
+                    </li>
+
+                    <br />
+                    <li>
+                    Dr. Amina Qutub @ <a href='http://www.qutublab.rice.edu/'>Systems Biology Institute</a>
+                      <aside>(Rice University)</aside>
+                    </li>
+
+                    <br />
+                    <li>
+                    Dr. Amit Joshi @ <a href='http://www.bcm.edu/molecularimaging/?PMID=3348'>Molecular Imaging Laboratory</a>
+                      <aside>(Baylor College of Medicine)</aside>
+                    </li>
+
+                    <br />
+                    <li>
+                    Dr. Michael Pepper @ <a href='http://web.up.ac.za/default.asp?ipkCategoryID=17753'>Institute for Cellular & Molecular Medicine</a>
+                      <aside>(University of Pretoria)</aside>
+                    </li>
+                  </ul>
+
+                </font>
+              </div><!-- .entry-meta -->
+            </div><!-- #post-## -->
+          </div><!-- #content -->
+        </div><!-- #container -->
+      </div><!-- #main -->
+
+      <!--#include file="footer.html" -->
+
+    </div><!-- #wrapper -->
+  </body>
+</html>
