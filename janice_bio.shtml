@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <title> Pathak Lab </title>
+    <link rel="stylesheet" type="text/css" media="all" href="style2.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="imageMenu.css">
+    <script type="text/javascript" src="mootools.js"></script>
+    <script type="text/javascript" src="imageMenu.js"></script>
+  </head>
+
+  <body class="home blog">
+    <div id="wrapper" class="hfeed">
+
+      <!--#include file="header.html" -->
+
+      <h2 align="justify">
+        Electronic and Telecommunication Engineering
+      </h2>
+      <br>
+
+      <img class="member-pic" src="images/hopkins_logo.jpg" align="left" width="200" height="267" />
+      <font size="2" color="Grey">
+        <br>
+        Research Focus: Laser Speckle Imaging
+        <br>
+        <br>
+        Undergraduate Institution: University of Moratuwa, Sri Lanka
+        <br>
+        <br>
+        Undergraduate Major: Electronic and Telecommunication Engineering
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      </font>
+    </div><!-- #wrapper -->
+    <!--#include file="footer.html" -->
+  </body>
+</html>
