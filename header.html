@@ -19,7 +19,11 @@
 
       <script type="text/javascript">
           window.addEvent('domready', function(){
-            var myMenu = new ImageMenu($$('#imageMenu a'),{openWidth:310, border:2, onOpen:function(e,i){location=(e);}});
+            var myMenu = new ImageMenu($$('#imageMenu a'), {
+              openWidth: 310, border: 2, onOpen: function(e,i) {
+                location=(e);
+              }
+            });
           });
       </script>
 
