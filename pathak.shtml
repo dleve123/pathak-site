@@ -38,6 +38,11 @@
                 <script type="text/javascript">
                   var ps = new PictureSlider($('picture-slider'), [
                       {
+                        src: 'images/microvascular_resch_cover_2014.jpg',
+                        link: 'http://www.sciencedirect.com/science/article/pii/S0026286214000570',
+                        caption: '<strong>Microvascular Research:</strong> Morphometric study of nuclei and microvessels in gliomas and its correlation with grades'
+                      },
+                      {
                         src: 'images/cac_400.jpg',
                         link: 'http://www.benthamdirect.org/pages/content.php?CAG/2012/00000001/00000003/0008CAG.SGM',
                         caption: '<strong>Current Angiogenesis:</strong> Optical Imaging of Microvascular Morphology and Perfusion'
