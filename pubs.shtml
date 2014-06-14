@@ -27,11 +27,13 @@
               <div class="entry-meta">
                 <font size="3" color="Grey">
                   <div id="thumbnails">
+                    <a href="images/angiogenesis_cover_2014.jpg">
+                      <img src="images/angiogenesis_cover_2014.jpg" width="90" height="150">
+                     </a>
                      <a href="images/microvascular_resch_cover_2014.jpg"><img src="images/microvascular_resch_cover_2014.jpg" width="90" height="150"></a>
                      <a href="images/cac.jpg"><img src="images/cac.jpg" width="90" height="150"></a>
                      <a href="images/abme_cover_2012_single_page.jpg"><img src="images/abme_cover_2012_single_page.jpg" width="90" height="150"></a>
                      <a href="images/AngiogenesisCover.jpg"><img src="images/AngiogenesisCover.jpg" width="90" height="150"></a>
-                     <a href="images/JCBFMCover.jpg"><img src="images/JCBFMCover.jpg" width="90" height="150"></a>
                   </div>
 
                   <div class="pubs1" align="justify">
@@ -40,11 +42,10 @@
                         2014
                     </h2>
 
-                    <a href="http://www.ncbi.nlm.nih.gov/pubmed/24719185">
-                      Multiscale and multi-modality visualization of angiogenesis in a human breast cancer model.
-                    </a>
+                    <a href="http://www.ncbi.nlm.nih.gov/pubmed/24719185">Multiscale and multi-modality visualization of angiogenesis
+                      in a human breast cancer model.</a>
                     Cebulla J, Kim E, Rhie K, Zhang J, Pathak AP.
-                    <i>Angiogenesis</i>, April 2014
+                    <i>Angiogenesis</i>, April 2014 <a href="images/angiogenesis_cover_2014.jpg" class="cover">[Cover]</a>
                     <br>
                     <br>
 

@@ -38,6 +38,11 @@
                 <script type="text/javascript">
                   var ps = new PictureSlider($('picture-slider'), [
                       {
+                        src: 'images/angiogenesis_cover_2014.jpg',
+                        link: 'http://www.ncbi.nlm.nih.gov/pubmed/24719185',
+                        caption: '<strong>Angiogenesis</strong> Multiscale and multi-modality visualization of angiogenesis in a human breast cancer model.'
+                      },
+                      {
                         src: 'images/microvascular_resch_cover_2014.jpg',
                         link: 'http://www.sciencedirect.com/science/article/pii/S0026286214000570',
                         caption: '<strong>Microvascular Research:</strong> A bioimage informatics based reconstruction of breast tumor microvasculature with computational blood flow predictions'
